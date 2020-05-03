@@ -1,0 +1,15 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "${process.env.DB_NAME}",
+        "uri": "${process.env.DB_URI}"
+      },
+      "options": {
+        "ssl": true
+      }
+    }
+  }
+}
