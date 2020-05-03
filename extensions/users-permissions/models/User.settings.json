@@ -60,10 +60,10 @@
       "plugin": "upload",
       "required": false
     },
-    "number": {
-      "type": "biginteger"
-    },
     "test": {
+      "type": "string"
+    },
+    "number": {
       "type": "string"
     }
   }
