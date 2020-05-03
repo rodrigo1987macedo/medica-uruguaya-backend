@@ -59,6 +59,12 @@
       "via": "related",
       "plugin": "upload",
       "required": false
+    },
+    "number": {
+      "type": "biginteger"
+    },
+    "test": {
+      "type": "string"
     }
   }
 }
