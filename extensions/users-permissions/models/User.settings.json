@@ -63,8 +63,8 @@
     "test": {
       "type": "string"
     },
-    "number": {
-      "type": "biginteger"
+    "testnumber": {
+      "type": "integer"
     }
   }
 }
