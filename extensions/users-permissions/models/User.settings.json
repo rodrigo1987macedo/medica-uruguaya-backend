@@ -60,11 +60,11 @@
       "plugin": "upload",
       "required": false
     },
-    "test": {
-      "type": "string"
-    },
     "number": {
       "type": "biginteger"
+    },
+    "seen": {
+      "type": "datetime"
     }
   }
 }
