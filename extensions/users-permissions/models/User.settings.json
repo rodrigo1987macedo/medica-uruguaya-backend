@@ -55,7 +55,7 @@
       "configurable": false
     },
     "file": {
-      "model": "file",
+      "collection": "file",
       "via": "related",
       "plugin": "upload",
       "required": false
