@@ -65,6 +65,11 @@
     },
     "seen": {
       "type": "datetime"
+    },
+    "ci": {
+      "type": "biginteger",
+      "required": true,
+      "unique": true
     }
   }
 }
