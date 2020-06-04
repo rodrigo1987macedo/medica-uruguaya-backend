@@ -61,7 +61,9 @@
       "required": false
     },
     "number": {
-      "type": "biginteger"
+      "type": "biginteger",
+      "unique": true,
+      "required": true
     },
     "seen": {
       "type": "datetime"
