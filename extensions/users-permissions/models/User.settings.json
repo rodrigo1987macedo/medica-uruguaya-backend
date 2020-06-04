@@ -71,7 +71,8 @@
     "ci": {
       "type": "biginteger",
       "required": true,
-      "unique": true
+      "unique": true,
+      "min": "1000000"
     }
   }
 }
